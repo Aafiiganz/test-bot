@@ -1,5 +1,5 @@
 {
-  "name": "DhaBotz",
+  "name": "NayOfc",
   "version": "1.0.0",
   "description": "Dah Pakai aja lah",
   "main": "yud.js",
@@ -10,7 +10,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node yud.js"
   },
-  "author": "YudhaPerdana",
+  "author": "AafiiGanz",
   "dependencies": {
     "@adiwajshing/baileys": "^3.4.1",
     "awesome-phonenumber": "^2.56.2",
@@ -41,10 +41,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/DhaBotz/"
+    "url": "git+https://github.com/Aafiiganz/"
   },
   "bugs": {
-    "url": "https://github.com/DhaBotz/"
+    "url": "https://github.com/Aafiiganz/"
   },
-  "homepage": "https://github.com/DhaBotz"
+  "homepage": "https://github.com/Aafiiganz"
 }
